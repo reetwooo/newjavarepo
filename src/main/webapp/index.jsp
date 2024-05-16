@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Hehe randdom modified java webapp !</h2>
+<h2> Deploying java web applicatipon using CICD pipleline !</h2>
 </body>
 </html>
