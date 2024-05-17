@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Mr. Adarsh Dhakal is disturbing in  Deploying java web applicatipon using CICD pipleline !</h2>
+<h2>   Deploying java web applicatipon using CICD pipleline via jenkins slave !</h2>
 </body>
 </html>
