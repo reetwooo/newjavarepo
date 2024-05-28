@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>   Deploying java web applicatipon using CICD pipleline via jenkins slave !</h2>
+<h2>   Deploying java web application on the tomcat server using Ansible  !</h2>
 </body>
 </html>
