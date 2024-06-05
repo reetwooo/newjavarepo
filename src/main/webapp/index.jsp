@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> I am happy today THUMBS UP !!!!   Deploying java web application on the tomcat server using Ansible  !</h2>
+<h2>Deploying java web application in a tomcat conatiner using CICD !</h2>
 </body>
 </html>
